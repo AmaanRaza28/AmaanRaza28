@@ -29,6 +29,12 @@ Keeping finances under control! A sleek ReactJS app for effortlessly tracking an
 
 Cracking the code! A treasure trove of my solutions to various LeetCode problems, neatly categorized and implemented in C++.
 
+## 🌱 Currently Learning
+
+- TypeScript
+- Redis
+- Prisma
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Amaan Raza Majidi](https://www.linkedin.com/in/amaan22/)
