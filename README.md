@@ -17,11 +17,11 @@ I'm a passionate developer with a diverse skill set, ranging from web developmen
 
 Decentralized democracy! A voting app on the blockchain, built with Next.js, React, Web3Storage, Solidity, and Hardhat.
 
-### [ClanConnect - Community Magic](https://https://github.com/AmaanRaza28/ClanConnect)
+### [ClanConnect - Community Magic](https://github.com/AmaanRaza28/ClanConnect)
 
 Building communities, one message at a time. Real-time messaging, server creation, and member management with Next.js, React, Socket.io, Prisma, and TailwindCSS.
 
-### [Expense Tracker](https://github.com/yourusername/expense-tracker)
+### [Expense Tracker](https://github.com/AmaanRaza28/ExpenseTracker)
 
 Keeping finances under control! A sleek ReactJS app for effortlessly tracking and managing expenses.
 
