@@ -11,7 +11,7 @@ I'm a passionate developer with a diverse skill set, ranging from web developmen
 **Other Technologies:** LiveKit, Clerk, UploadThing  
 **Algorithmic Problem Solving:** LeetCode Challenges
 
-## 🪛 Projects
+## 🪛 Key Projects
 
 ### [Web3 Voting App](https://github.com/AmaanRaza28/VotingDapp)
 
