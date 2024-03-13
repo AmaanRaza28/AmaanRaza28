@@ -37,8 +37,6 @@ Cracking the code! A treasure trove of my solutions to various LeetCode problems
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Amaan Raza Majidi](https://www.linkedin.com/in/amaan22/)
-
-
+- **Mail:** [amaan.majidi22@gmail.com](amaan.majidi22@gmail.com)
 
 Feel free to dive into my repositories, and don't hesitate to reach out if you have questions or exciting collaboration ideas!
