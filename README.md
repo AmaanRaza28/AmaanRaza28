@@ -5,25 +5,20 @@ I'm a passionate developer with a diverse skill set, ranging from web developmen
 ## 🚀 Skills
 
 **Frontend Technologies:** ReactJS, Next.js, TailwindCSS  
-**Backend Technologies:** Node.js, Express, Prisma, MongoDB, MySQL  
-**Cloud Technologies:** Web3Storage, Planetscale  
-**Real-time Communication:** Socket.io  
-**Other Technologies:** LiveKit, Clerk, UploadThing  
+**Backend Technologies:** Node.js, Express, Prisma, MongoDB
+**Cloud Technologies:** AWS EC2, S3, Lambda, CloudFront, SQS 
 **Algorithmic Problem Solving:** LeetCode Challenges
 
 ## 🪛 Key Projects
+
+###[ProjSync](https://github.com/AmaanRaza28/ProjSync)
+ A project management app built to help teams collaborate, track, and manage their projects efficiently. 
+
 
 ### [Web3 Voting App](https://github.com/AmaanRaza28/VotingDapp)
 
 Decentralized democracy! A voting app on the blockchain, built with Next.js, React, Web3Storage, Solidity, and Hardhat.
 
-### [ClanConnect - Community Magic](https://github.com/AmaanRaza28/ClanConnect)
-
-Building communities, one message at a time. Real-time messaging, server creation, and member management with Next.js, React, Socket.io, Prisma, and TailwindCSS.
-
-### [Expense Tracker](https://github.com/AmaanRaza28/ExpenseTracker)
-
-Keeping finances under control! A sleek ReactJS app for effortlessly tracking and managing expenses.
 
 ### [LeetCode Solutions](https://github.com/AmaanRaza28/DSA)
 
@@ -31,7 +26,6 @@ Cracking the code! A treasure trove of my solutions to various LeetCode problems
 
 ## 🌱 Currently Learning
 
-- TypeScript
 - Redis
 - Prisma
 
