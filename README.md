@@ -11,7 +11,7 @@ I'm a passionate developer with a diverse skill set, ranging from web developmen
 
 ## 🪛 Key Projects
 
-###[ProjSync](https://github.com/AmaanRaza28/ProjSync)
+### [ProjSync](https://github.com/AmaanRaza28/ProjSync)
  A project management app built to help teams collaborate, track, and manage their projects efficiently. 
 
 
