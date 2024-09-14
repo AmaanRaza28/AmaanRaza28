@@ -6,6 +6,7 @@ I'm a passionate developer with a diverse skill set, ranging from web developmen
 
 **Frontend Technologies:** ReactJS, Next.js, TailwindCSS  
 **Backend Technologies:** Node.js, Express, Prisma, MongoDB, Convex
+
 **Cloud Technologies:** AWS EC2, S3, Lambda, CloudFront, SQS 
 
 
