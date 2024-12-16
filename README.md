@@ -1,6 +1,6 @@
 # Hello, I'm Amaan! 👋
 
-I'm a passionate developer with a diverse skill set, ranging from web development to solving algorithmic challenges. Below, you'll find an overview of my skills and some of the projects I've worked on.
+I'm a Full Stack developer with a diverse skill set, ranging from web development to solving algorithmic challenges. Below, you'll find an overview of my skills and some of the projects I've worked on.
 
 ## 🚀 Skills
 
